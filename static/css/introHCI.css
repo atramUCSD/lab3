@@ -37,6 +37,10 @@ body {
      color: #6e6e6e;
 }
 
+.jumbotron p.active {
+     color: rgb(134, 16, 150);
+}
+
 .project a {
      text-align: center;
 }
